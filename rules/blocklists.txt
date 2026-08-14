@@ -5819,6 +5819,7 @@ abc.abfashionbrand.com
 abc.alltagsbegleiter-online.de
 abc.anatomy4sculptors.com
 abc.apparelmartbrand.com
+abc.arobyscollection.com
 abc.azzurrohotels.com
 abc.belleviemarket.com
 abc.bene-living.de
@@ -13556,7 +13557,6 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
-affiliates.vpn.ht
 affiliates.woodbrass.com
 affiliates.xapads.com
 affiliatesensor.com
@@ -15073,7 +15073,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -18199,7 +18199,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22296,6 +22295,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25816,7 +25816,6 @@ bd2-china.xsfaya.com
 bd2.52che.com
 bd2.dopa.com
 bd2.jobui.com
-bd2.nipic.com
 bd2.pipaw.com
 bd2.zuimeitianqi.com
 bd3.chuiyue.com
@@ -46393,6 +46392,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -48522,7 +48522,6 @@ de-de.siemensplmevents.com
 de-gdpr-err-up.vivoglobal.com
 de-gmtdmp.mookie1.com
 de-go.experian.com
-de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.bca-news.com
 de.betano.com
@@ -59563,16 +59562,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62987,7 +62983,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -66875,7 +66870,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -85890,6 +85884,7 @@ kosalansidder.cfd
 kosanahtapwhm.site
 kosher-expression.com
 kosher-safety.com
+kosibablo.ucoz.ua
 kosjf.abbottlyon.com
 kost.tv
 kostenlose-counter.com
@@ -122742,6 +122737,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -126587,7 +126583,6 @@ qmvwjbawxsese.site
 qmwonwowmytqf.store
 qmyayo.foellie.com
 qmyzawzrqryjj.top
-qmzikvkk.business
 qmznf8cmw1.cfd
 qmzwzz.headout.com
 qn-5.com
@@ -130835,6 +130830,7 @@ rec.g.163.com
 rec.mouseflow.com
 rec.scupio.com
 rec.smartlook.com
+rec2000.at.ua
 rec3.prosieben.de
 rec5.visualwebsiteoptimizer.com
 recantkeynotecrane.com
@@ -135516,7 +135512,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -157688,6 +157683,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -158404,6 +158400,7 @@ sst.cascinabonfiglio.it
 sst.casetasdejardin24.es
 sst.cassaros.fr
 sst.castalie.com
+sst.catolicabs.porto.ucp.pt
 sst.cbdolie.nl
 sst.cc-tapis.com
 sst.ccjensen.com
@@ -160338,7 +160335,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -165699,7 +165695,6 @@ stats.esecured.net
 stats.eskimi.com
 stats.estrema.it
 stats.etix.vn
-stats.euclidiq.io
 stats.euipo.europa.eu
 stats.exploratv.ca
 stats.extendedstayamerica.com
@@ -167755,7 +167750,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -179355,7 +179349,6 @@ tracks.alteg.io
 tracks.aniview.com
 tracks.arubamediamarketing.it
 tracks.davidkingsbury.co.uk
-tracks.go.smartcoach.com
 tracks.yclients.com
 tracks1.ferrari.com
 tracks20.com
@@ -199289,7 +199282,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -200460,6 +200452,7 @@ zoly.tech
 zombie.duolingo.com
 zomdufobhmfmm.space
 zomhfzodazcnz.space
+zona1.at.ua
 zonalive.click
 zone-dq.com
 zone1.bestbdsm24.com
@@ -200616,7 +200609,6 @@ zquitw.fxpro.com
 zqulie.masseys.com
 zqvfnrprrodge.site
 zqvhsojbqezvi.space
-zqvkipfkxjigc.com
 zqwe.ru
 zqwofo.liverpool.com.mx
 zqxuemmabklqq.online
