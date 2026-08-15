@@ -10055,7 +10055,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -10964,7 +10963,6 @@ ads.xedoisong.vn
 ads.xemphimso.com
 ads.xhamster.com
 ads.xlxtra.com
-ads.xnhauwbp.site
 ads.xtra.ca
 ads.xtra.co.nz
 ads.yadro.ru
@@ -15075,7 +15073,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16056,7 +16054,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17822,7 +17819,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -19958,6 +19954,7 @@ api.lp.vetcarehospitalveterinario.com.br
 api.lps.vaportec.com.br
 api.luckyorange.com
 api.ludashi.com
+api.lumidashboard.com.br
 api.madkudu.com
 api.magazine4you.site
 api.magmamobile.com
@@ -22307,7 +22304,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -31293,7 +31289,6 @@ caliteeschars.qpon
 calivary.com
 caljdjxsfofll.store
 calkercutoffsrentree.cfd
-call-tracking.by
 call.inforsea.com
 call.kdlocksmithnyc.com
 call.me.sel.sony.com
@@ -33585,7 +33580,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33712,8 +33706,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
-cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -40757,6 +40749,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -46421,6 +46414,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -59608,7 +59602,9 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -63025,6 +63021,7 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -64311,7 +64308,6 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
@@ -65451,6 +65447,7 @@ getlasso.co
 getletterpress.com
 getlocalmeasure.com
 getmackeepersoftpro.xyz
+getmacos.org
 getmailcounter.com
 getmatchedlocally.com
 getme.akupanelgigant.nl
@@ -66168,7 +66165,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -78102,7 +78098,6 @@ img.awr.im
 img.babcdn.com
 img.beaverads.com
 img.biospace.com
-img.blogsavenue.com
 img.bluehost.com
 img.bnqt.com
 img.buch.ch
@@ -83212,7 +83207,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -97442,7 +97436,6 @@ malewait.com
 malichoshamirskirl.cyou
 maliciousdemonic.com
 maliciousmusic.com
-malikiresids.com
 maling.dn.no
 maling.ue.dn.no
 maliva-mcs.byteoversea.com
@@ -111494,7 +111487,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -116631,6 +116623,7 @@ orexincrake.cyou
 orfa1st5.de
 orfepiwik.orf-enterprise.at
 orfy.bevopizza.com
+org.govqp.com
 orgamyfeminiehatchet.cyou
 organic-harmony.com
 organic-package.com
@@ -121701,7 +121694,6 @@ platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
 platform-insights-collector.newrelic.com
-platform-metrics-api.sharethis.com
 platform-metrics.key.com
 platform.33across.com
 platform.adcannyads.com
@@ -122804,7 +122796,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -137770,6 +137761,7 @@ sbdhdq.zeeman.com
 sbdtds.com
 sbeacon.sina.com.cn
 sber.cod63.com
+sber.sell2dealer.com
 sbermarketing.ru
 sbfsdvc.com
 sbhopicieqsmd.online
@@ -150780,6 +150772,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -156092,7 +156085,6 @@ ss.la-co.si
 ss.labastidedusoleil.com
 ss.laboratoriopena.com
 ss.lacabra.com
-ss.lacajacompany-dos.com
 ss.lacledeschamps-palezieux.ch
 ss.lactimal.pl
 ss.ladugarden.com
@@ -157753,6 +157745,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160404,6 +160397,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -170633,6 +170627,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -173623,6 +173618,7 @@ thirstybunch.pro
 thirstyquiet.com
 thirteenpun.com
 thirty-good.lugg.com
+this.com
 thiscdn.com
 thisdomainisfortracking.org
 thisisarray.com
@@ -193027,6 +193023,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
