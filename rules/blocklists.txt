@@ -44,6 +44,7 @@
 011qt7cln.com
 0123movies.top
 014092798f.3d721db5a7.com
+01466b626e.b173280abe.com
 015ea24446.com
 0171pjx5q.com
 018520.com
@@ -10001,6 +10002,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -11209,6 +11211,7 @@ adschoom.com
 adscienceltd.com
 adsclick.cc
 adsclick.qq.com
+adsclick.ru
 adsclick.yx.js.cn
 adsclk.com
 adsco.re
@@ -11452,6 +11455,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15093,6 +15097,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16075,6 +16080,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17320,7 +17326,6 @@ analytics.maxx53.com
 analytics.mcw.nz
 analytics.med.wanfangdata.com.cn
 analytics.media-proweb.de
-analytics.mediadash.ru
 analytics.mediaservers.cc
 analytics.medius.com
 analytics.mefeedia.com
@@ -21314,7 +21319,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21449,7 +21453,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22325,6 +22328,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24018,6 +24022,7 @@ aws-api.eu.newrelic.com
 aws-api.newrelic.com
 aws-api.sail-personalize.com
 aws-api.sail-track.com
+aws-assets.bttrack.com
 aws-br-cdn.kwai.net.iberostar.com
 aws-br-pic.kwai.net.iberostar.com
 aws-itcloud.net
@@ -24297,6 +24302,7 @@ az-pe.o-s.io
 az.appstore.vivo.com.cn
 az.nzn.io
 az.statcounter.com
+az.tbllem.com
 az1-app.kwai.com
 az1-h5.kwai.com
 az1-incentive.kwai.com
@@ -27639,7 +27645,6 @@ bj9zvb5ih.com
 bja2.destinia.cz
 bjads.bejbej.ca
 bjakku.com
-bjbbs.top
 bjcathay.com
 bjdata.ads.oppomobile.com
 bjdgzffnutlqs.site
@@ -28895,7 +28900,6 @@ bossyhearing.com
 bossyjunior.pro
 bossyratio.pro
 bostad24.se
-bostadslistan.se
 bostadsportal.se
 bostoncollegealumni.evergage.com
 bostonglobe.demdex.net
@@ -33767,7 +33771,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -39834,7 +39838,6 @@ counter.mirohost.net
 counter.mojgorod.ru
 counter.monkeybanana3.com
 counter.musicsweb.ir
-counter.nn.ru
 counter.nope.dk
 counter.ntdvn.com
 counter.nv.ua
@@ -46514,7 +46517,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -49181,6 +49183,7 @@ demo.wootric.com
 demo.yomedia.vn
 demobl.cityads.com
 democracianacional.org
+democratic072925.shop
 democraticexit.com
 democratmachinesucceed.com
 democratparasiteblessed.com
@@ -54573,6 +54576,7 @@ ecommercegoodies.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
+ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -59730,16 +59734,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -63179,7 +63180,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -66339,6 +66339,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -69021,7 +69022,6 @@ gtm.beafashion.com
 gtm.beaniesflavourco.co.uk
 gtm.beautybyearth.com
 gtm.beautyeyesrp.com.br
-gtm.bebeabordoceara.com.br
 gtm.bebezen.com.br
 gtm.becasatriani.com.br
 gtm.beemmesemijoias.com.br
@@ -83398,6 +83398,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -85943,6 +85944,7 @@ knowd.com
 knowens.com
 knowersalgy.cfd
 knowhowspunsurveyed.com
+knowingallot.com
 knowingmanas.cyou
 knowit.thinqtanklearning.com
 knowledge-for-everyone.info
@@ -93245,7 +93247,6 @@ load.sst.chicome.co.uk
 load.sst.chivonygardens.com
 load.sst.cilantro.london
 load.sst.cinderellaeco.se
-load.sst.claireetmia.com
 load.sst.clementcombes.com
 load.sst.clementi-vuurovens.nl
 load.sst.clever-talents.de
@@ -97436,7 +97437,6 @@ mahfrwpkcnjcv.space
 mahid.hatbazar.online
 mahim.certifymeonline.net
 mahimeta.com
-mahin.brillondeco.com
 mahin.mahinagro.com
 mahjongdrabspatia.qpon
 mahjouwwbezzg.online
@@ -107813,6 +107813,7 @@ my.leadpages.net
 my.learnskillstoday.com
 my.learnwithafaq.com
 my.lifestreet.com
+my.lifestreetmedia.com
 my.macu.com
 my.mobfox.com
 my.nationalfreedomfunds.com
@@ -111753,6 +111754,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -116279,6 +116281,7 @@ oohsleg.cyou
 oojnpzimufgpr.online
 oojujkszfgqxq.space
 oojwuhhcdhvwb.space
+ookris.oferty-kredytowe.pl
 ooktgltucmhnf.site
 oolakunlight.qpon
 oolongmatlow.com
@@ -123099,6 +123102,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -139517,6 +139521,7 @@ securecookiesdustininfo.dustinhome.se
 secured-app-telemetry.growwinfra.in
 secured.bitcoinira.com
 secured.online.avon.com
+securedata.aiper.com
 securedata.aiper.store
 securedata.berlook.com
 securedata.bestellen-mijnspar.be
@@ -151133,6 +151138,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -156345,6 +156351,7 @@ ss.influencemedia.info
 ss.informationplanet.be
 ss.instant-culture.com
 ss.institutpeausaine.fr
+ss.intobrasconstrucciones.com.ar
 ss.inv.quantior-france.com
 ss.inversionracional.com
 ss.investieredichfrei.de
@@ -158118,6 +158125,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160769,7 +160777,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -164585,7 +164592,6 @@ stape41.trovemax.com.br
 stape55.trovemax.com.br
 stape68.trovemax.com.br
 stapeapi.isabelaplaza.com.br
-stapeapi.lojalacave.com.br
 stapeb2b.clinicmais.com.br
 stapebsiwq.topfurniture.co.uk
 stapecase.iogarden.com.br
@@ -176062,6 +176068,7 @@ tq.hillflippush.info
 tq.hintcore-grid.info
 tq.icdsoap-3.online
 tq.icdsoap-4.online
+tq.incs-xd.online
 tq.ldnpointer.online
 tq.mpds-smart3.online
 tq.ocean-7d56.info
@@ -187379,6 +187386,7 @@ victual21.com
 victustapia.qpon
 vicuazanella.shop
 vicuna.casa-moebel.at
+vicuna.equity.no
 vid-adblocker.com
 vid-cpm.xapads.com
 vid-rtb.xapads.com
@@ -191513,7 +191521,6 @@ whisbi.com
 whishannuent.com
 whiskerlake.com
 whiskerspeppersane.com
-whisketwraps.rest
 whiskeyflavors.com
 whiskyqueue.com
 whisla.com
@@ -193492,7 +193499,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -194360,7 +194366,6 @@ www.jshonghuadq.com
 www.juicer.cc
 www.juicyads.com
 www.justpremium.com
-www.jutou5.com
 www.juzi.cn
 www.jystea.com
 www.k3bos.com
@@ -199857,6 +199862,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -201736,7 +201742,7 @@ ahaphimz.com
 anime14.site
 anime1s.com
 animehay11.site
-animevietsub.mom
+animevietsub.vc
 animevietsub9.com
 api.anime3s.com
 api.ybox.vn
@@ -201757,7 +201763,6 @@ chotlo3s.com
 client.rigelink.com
 code.gunnymienphi.net
 coiphim.show
-condohotelsdubai.com
 danketoan.com
 data.voz.vn
 doctruyenqq.net
@@ -201851,6 +201856,7 @@ xc.1357668.com
 xem20.net
 xmedia.antt.vn
 xoilackvb.cc
+xoilaczzffz.tv
 ads.starzd.online
 bidgear-syndication.com
 blueseeddigital.com
@@ -201957,7 +201963,7 @@ phimchautinhtri.net
 phimchill.life
 phimdacap.tv
 phimmoi.cash
-phimmoir.ac
+phimmoichill.sh
 phuongtrinhhoahoc.com
 qdnd.vn
 quantrimang.com
@@ -202041,6 +202047,7 @@ www.vn2c.my
 cdn.adxcontent.com
 jf.nairydeices.com
 docufind.org.uk
+1phimsex.com
 buomtv.love
 cap3.garden
 cdn-01.w3img.com
@@ -202052,7 +202059,7 @@ gamer18.net
 hentaivn.show
 hhkungfu.us
 img.congdongmassage.com
-javhdz.wine
+javhdz.city
 javtopxx2.com
 laalmirchitakeaway.co.uk
 lxmanga.space
@@ -202061,16 +202068,15 @@ phe69.lol
 phimsexhayvne.com
 phimsexsuong3x.net
 qmanga.art
-qmh.red
-quatvn.forum
+qmh.pink
+quatvn.study
 rphang.online
 sayhentai.cx
 sexmupxinh.net
-sexviet88z.com
+sexviet88z.co.uk
 truyensextv.com
 truyenvn.sbs
 video.s3viphub.shop
-vphimsex.com
 www.hayvn.net
 www.hentaivnx.com
 xamer.xyz
