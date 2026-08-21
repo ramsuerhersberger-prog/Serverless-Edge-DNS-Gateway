@@ -3412,6 +3412,7 @@ a-c-engine.com
 a-cast.jp
 a-cdn.anthropic.com
 a-cn.duoyi.com
+a-collector.errors.ea.com
 a-counter.kiev.ua
 a-counters.com
 a-da.invideo.io
@@ -8806,7 +8807,6 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -10201,6 +10201,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15368,6 +15369,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16402,7 +16404,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -18762,7 +18763,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -23371,6 +23371,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -32749,6 +32750,7 @@ ca-api.cafe24data.com
 ca-conv.jp
 ca-g2.gumgum.com
 ca-log.cafe24data.com
+ca.429men.com
 ca.4wank.com
 ca.banmamedia.com
 ca.careercapital.coach
@@ -35630,6 +35632,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -38215,6 +38218,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -42348,7 +42352,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -65275,16 +65278,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69103,7 +69103,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -72870,7 +72869,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -74777,6 +74775,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77472,6 +77471,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -101412,7 +101412,6 @@ load.gtm.forsikringstjek.nu
 load.gtm.fragranza.sk
 load.gtm.francecroquettes.com
 load.gtm.francocicerchia.com
-load.gtm.franquiacredfacil.com.br
 load.gtm.fratellicontorno.com
 load.gtm.freiheitglow.com
 load.gtm.frilandskoed.dk
@@ -111107,6 +111106,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -136859,6 +136859,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140194,6 +140195,7 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
+q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -142224,12 +142226,14 @@ r1---sn-ab5szn6e.c.2mdn.net
 r1---sn-ab5sznld.c.2mdn.net
 r1---sn-ab5sznly.c.2mdn.net
 r1---sn-ab5sznzr.c.2mdn.net
+r1---sn-ab5sznzs.c.2mdn.net
 r1---sn-ab5sznzy.c.2mdn.net
 r1---sn-aigl6n6s.c.2mdn.net
 r1---sn-aigl6ned.c.2mdn.net
 r1---sn-aigl6ner.c.2mdn.net
 r1---sn-aigl6ney.c.2mdn.net
 r1---sn-aigl6nl7.c.2mdn.net
+r1---sn-aigl6ns6.c.2mdn.net
 r1---sn-aigl6nz7.c.2mdn.net
 r1---sn-aigl6nze.c.2mdn.net
 r1---sn-aigl6nzl.c.2mdn.net
@@ -142655,6 +142659,7 @@ r2---sn-ab5sznld.c.2mdn.net
 r2---sn-ab5sznly.c.2mdn.net
 r2---sn-ab5sznz6.c.2mdn.net
 r2---sn-ab5sznzr.c.2mdn.net
+r2---sn-ab5sznzs.c.2mdn.net
 r2---sn-ab5sznzy.c.2mdn.net
 r2---sn-aigl6n6s.c.2mdn.net
 r2---sn-aigl6ned.c.2mdn.net
@@ -143543,6 +143548,7 @@ r4---sn-aigl6n6s.c.2mdn.net
 r4---sn-aigl6ner.c.2mdn.net
 r4---sn-aigl6ney.c.2mdn.net
 r4---sn-aigl6nl7.c.2mdn.net
+r4---sn-aigl6ns6.c.2mdn.net
 r4---sn-aigl6nz7.c.2mdn.net
 r4---sn-aigl6nze.c.2mdn.net
 r4---sn-aigl6nzl.c.2mdn.net
@@ -143965,6 +143971,7 @@ r5---sn-ab5sznld.c.2mdn.net
 r5---sn-ab5sznly.c.2mdn.net
 r5---sn-ab5sznz6.c.2mdn.net
 r5---sn-ab5sznzr.c.2mdn.net
+r5---sn-ab5sznzs.c.2mdn.net
 r5---sn-ab5sznzy.c.2mdn.net
 r5---sn-aigl6n6s.c.2mdn.net
 r5---sn-aigl6ner.c.2mdn.net
@@ -170075,6 +170082,7 @@ sn-ab5sznld.c.2mdn.net
 sn-ab5sznly.c.2mdn.net
 sn-ab5sznz6.c.2mdn.net
 sn-ab5sznzr.c.2mdn.net
+sn-ab5sznzs.c.2mdn.net
 sn-ab5sznzy.c.2mdn.net
 sn-aigl6n6s.c.2mdn.net
 sn-aigl6ner.c.2mdn.net
@@ -177190,7 +177198,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181014,7 +181021,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -190412,6 +190418,7 @@ support.tbllprem.com
 support.tenten.vn
 support0.bigo.sg
 support2.flex.com
+support3.flex.com
 support509.com
 supportacs24.com
 supportedbailednotions.com
@@ -208780,7 +208787,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -217788,7 +217794,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
